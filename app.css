@@ -1,3 +1,8 @@
-.app {
-     /* Add app styles here */
+.app { .custExprtBtnCls { margin-left:20px;
+	padding: 10px;
+}
+
+.custExprtBtnCls:HOVER {
+	background-color: #ff6d29;
+}
 }

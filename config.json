@@ -1,12 +1,15 @@
 {
-    "name": "dynamic-pad-generation-app",
-    "className": "CustomApp",
-    "server": "https://rally1.rallydev.com",
-    "sdk": "2.1",
-    "javascript": [
-        "App.js"
-    ],
-    "css": [
-        "app.css"
-    ]
+   "name": "dynamic-pad-generation-app",
+   "className": "CustomApp",
+   "server": "https://rally1.rallydev.com",
+   "sdk": "2.1",
+   "javascript": [
+      "jquery.min-1.11.1.js",
+      "FileSaver.min.js",
+      "jquery.wordexport.js",
+      "App.js"
+   ],
+   "css": [
+      "app.css"
+   ]
 }
